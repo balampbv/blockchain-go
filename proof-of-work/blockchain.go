@@ -28,8 +28,8 @@ func calculateHash(block Block) string {
 	h := sha256.New()
 	h.Write([]byte(record))
 	hased := h.Sum(nil)
-	fmt.Println("hased :", hased)
-	fmt.Println("hex.EncodeTosString :", hex.EncodeToString(hased))
+	// fmt.Println("hased :", hased)
+	// fmt.Println("hex.EncodeTosString :", hex.EncodeToString(hased))
 
 	return hex.EncodeToString(hased)
 
