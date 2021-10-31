@@ -6,6 +6,6 @@ Implementaion of simplified proof-of-stake algorithm.
 
 ### Screenshot
 
-![screen](https://github.com/balampbv/blockchain-go/blob/957d360ee4ddf52e218d10ff27dc0a6c998bc35b/proof-of-stake/pos-1.jpg)
+![screen](https://github.com/balampbv/blockchain-go/blob/b8f30aee639c5670a21447eed4f7a0dfa5966ed8/proof-of-stake/pos-1.jpg)
 
-![screen](https://github.com/balampbv/blockchain-go/blob/957d360ee4ddf52e218d10ff27dc0a6c998bc35b/proof-of-stake/pos-2.jpg)
+![screen](https://github.com/balampbv/blockchain-go/blob/b8f30aee639c5670a21447eed4f7a0dfa5966ed8/proof-of-stake/pos-2.jpg)
