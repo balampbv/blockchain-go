@@ -1,0 +1,1 @@
+Connect multiple nodes to the main instance and have them contribute new blocks and broadcast the updated blockchain to all the other nodes.
